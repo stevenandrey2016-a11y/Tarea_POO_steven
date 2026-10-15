@@ -4,8 +4,8 @@ Aplicación de consola en Java con un menú principal desde el que se puede **la
 
 | Juego | Autor | Paquete |
 |-------|-------|---------|
-| Buscaminas | _[tu nombre]_ | `juegos.buscaminas` |
-| Solitario (Klondike) | _[nombre de tu compañero]_ | `juegos.solitario` |
+| Buscaminas | _Steven Vega_ | `juegos.buscaminas` |
+| Solitario (Klondike) | _Sebas Salas_ | `juegos.solitario` |
 
 ## Cómo ejecutarlo
 
